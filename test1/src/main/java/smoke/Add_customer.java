@@ -12,6 +12,7 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 public class Add_customer {
+	//test
 	WebDriver driver;
 	String user_name="Amit Poonia";
 	String user_mobilenumber="1021212133";
